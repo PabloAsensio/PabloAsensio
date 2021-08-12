@@ -8,7 +8,7 @@ Here you could find some projects he has worked on:
 
 - [TreeDetector](https://github.com/PabloAsensio/AIVA_2021-imagenes_aereas). [Python](*Spanish wiki only*). Here you could find a simulation between a client (teacher) and the business (us). Where client give us some specifications for success.
 - [Biometrics stuffs](https://github.com/PabloAsensio/MUVA-biometria). [Python](*No wiki*). Fingerprint Minutae and Spoofing Attack works can be finded here.
-- (NEED TO UPLOAD) **3D exercises** [Python; JupyterNotebook] (*Spanish wiki only*). Some 3D vision exercises.
+- [3D Vision exercises](https://github.com/PabloAsensio/MUVA-vision-tridimensional-practicas) [Python; JupyterNotebook] (*Spanish wiki only*). Some 3D vision exercises.
 
 ### Relationated with Pablo's Master Dissertation
 
@@ -21,7 +21,7 @@ Here you could find some projects he has worked on:
 
 - [Air Traffic Simulator](https://github.com/PabloAsensio/ATCSim). [C++] We could find an **30 people project***. This was the first "big" project participated on.*(Does not appear on mean repo).
 - [Real Time ILS Calibration](https://github.com/PabloAsensio/ILS_Calibration). [C++ and Python] (*No wiki yet. Code may be incomplete.*). He's final degree work, also he's first real time application. This app could run on a Raspberry Pi (No tested).
-- (NEED TO UPLOAD) **IMU and GNSS integration. Kalman Filter.** [Matlab] (*Spanish wiki only*). You can see here how an Inertial Measurement Unit works. We used a GNSS receptor to make corrections using a Kalman Filter.
+- [IMU and GNSS integration. Kalman Filter.](https://github.com/PabloAsensio/Integracion-IMU-GNSS) [Matlab] (*Spanish PDF only*). You can see here how an Inertial Measurement Unit works. We used a GNSS receptor to make corrections using a Kalman Filter.
 
 
 <!--
