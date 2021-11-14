@@ -1,6 +1,6 @@
 ### **Hi there** 👋
 
-**Pablo** is an **aerospace engineer** (hope in few months, an **Computer Vision Arquitec**) who is curious about the SW world.
+**Pablo** is an **aerospace engineer** (currently working on my **Computer Vision Master's Thesis**) who is curious about the SW world. 
 
 Here you could find some projects he has worked on:
 
@@ -10,9 +10,9 @@ Here you could find some projects he has worked on:
 - [Biometrics stuffs](https://github.com/PabloAsensio/MUVA-biometria). [Python](*No wiki*). Fingerprint Minutae and Spoofing Attack works can be finded here.
 - [3D Vision exercises](https://github.com/PabloAsensio/MUVA-vision-tridimensional-practicas) [Python; JupyterNotebook] (*Spanish wiki only*). Some 3D vision exercises.
 
-### Relationated with Pablo's Master Dissertation
+### Relationated with Pablo's Master Thesis
 
-**Pablo** is going to **research** if it is possible for **drones** to make **3D indoors maps** using **Slam** algorithms. As well, he will create an exercise on [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/) and [Unibotics](https://unibotics.org/)
+**Pablo** is going to **research** if it is possible for **drones** to make **3D indoors maps** using **SLAM** algorithms. As well, he will create an exercise on [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/) and [Unibotics](https://unibotics.org/)
 
 - [Vio-SDSlam](https://github.com/PabloAsensio/SDslam/tree/vio-sdslam). [C++] Algorithm which will be implemented on the drone.
 - [RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy). [Python] Repo of *RoboticsAcademy and Unibotics*
