@@ -1,40 +1,31 @@
-### **Hi there** 👋
+# Hi there, I'm Pablo Asensio 👋 
 
-**Pablo** is an **aerospace engineer** (currently working on my **Computer Vision Master's Thesis**) who is curious about the SW world. 
+<a href="www.linkedin.com/in/asensio-pablo" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-Here you could find some projects he has worked on:
+## I'm a World Explorer, Aerospace Engineer and Computer Vision Architect!!
 
-## **Computer Vision**
+- 🛫 I will surely be organizing a new trip 🤣
+- 📖 I’m currently learning everything 👨‍🎓 
+- 🥅 2022 Goals: Become a Private Pilot and find my firt developer job.
+- 🧁 Fun fact: I love to try to make cakes 🤣
 
-- [TreeDetector](https://github.com/PabloAsensio/AIVA_2021-imagenes_aereas). [Python](*Spanish wiki only*). Here you could find a simulation between a client (teacher) and the business (us). Where client give us some specifications for success.
-- [Biometrics stuffs](https://github.com/PabloAsensio/MUVA-biometria). [Python](*No wiki*). Fingerprint Minutae and Spoofing Attack works can be finded here.
-- [3D Vision exercises](https://github.com/PabloAsensio/MUVA-vision-tridimensional-practicas) [Python; JupyterNotebook] (*Spanish wiki only*). Some 3D vision exercises.
+<br />
 
-### Relationated with Pablo's Master Thesis
+## Languages and Tools:
 
-**Pablo** is going to **research** if it is possible for **drones** to make **3D indoors maps** using **SLAM** algorithms. As well, he will create an exercise on [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/) and [Unibotics](https://unibotics.org/)
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
+[<img align="left" alt="Open CV" width="26px" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="Sklearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />][webdevplaylist]
+[<img align="left" alt="Keras" width="26px" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" />][webdevplaylist]
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
-- [Vio-SDSlam](https://github.com/PabloAsensio/SDslam/tree/vio-sdslam). [C++] Algorithm which will be implemented on the drone.
-- [RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy). [Python] Repo of *RoboticsAcademy and Unibotics*
+<br />
 
-## **Aerospace Engineering**
+## Examples of Work
 
-- [Air Traffic Simulator](https://github.com/PabloAsensio/ATCSim). [C++] We could find an **30 people project***. This was the first "big" project participated on.*(Does not appear on mean repo).
-- [Real Time ILS Calibration](https://github.com/PabloAsensio/ILS_Calibration). [C++ and Python] (*No wiki yet. Code may be incomplete.*). He's final degree work, also he's first real time application. This app could run on a Raspberry Pi (No tested).
-- [IMU and GNSS integration. Kalman Filter.](https://github.com/PabloAsensio/Integracion-IMU-GNSS) [Matlab] (*Spanish PDF only*). You can see here how an Inertial Measurement Unit works. We used a GNSS receptor to make corrections using a Kalman Filter.
-
-
-<!--
-**PabloAsensio/PabloAsensio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Tree Detector 5000x5000" width="250px" src="./img/huge.png" />
+<img align="left" alt="Tree Detector 250x250" width="250px" src="./img/treedetector.png" />
