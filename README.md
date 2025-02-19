@@ -1,10 +1,10 @@
 # Hi there, I'm Pablo Asensio 👋 
-## I'm a World Explorer, Aerospace Engineer and Computer Vision Architect!!
+## I'm a Private Pilot, Aerospace Engineer and Computer Vision Architect!!
 
 - 🛫 I will surely be organizing a new trip 🤣
 - 📖 I’m currently learning everything 👨‍🎓 
-- 🥅 2022 Goals: Become a Private Pilot and find my firt developer job.
-- 🧁 Fun fact: I love to try to make cakes 🤣
+- 🥅 2025 Goals: Become a Comercial Pilot.
+- ⚽️ Fun fact: I love goalkeeping 🧤⚽️ 
 
 <div>
     <a href = "mailto:p.asensio97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
